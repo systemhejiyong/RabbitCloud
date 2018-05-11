@@ -91,3 +91,6 @@ third&ensp;&ensp;&ensp;3574ms
 ## communication
 * [QQ Group：384413261（RabbitHub）](http://jq.qq.com/?_wv=1027&k=29DzAfj)
 * [Email：majian159@live.com](mailto:majian159@live.com)
+
+https://github.com/RabbitTeam/RabbitCloud/tree/dev
+httpclient 支持负载和服务发现
