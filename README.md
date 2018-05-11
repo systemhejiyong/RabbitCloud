@@ -94,3 +94,6 @@ third&ensp;&ensp;&ensp;3574ms
 
 https://github.com/RabbitTeam/RabbitCloud/tree/dev
 httpclient 支持负载和服务发现
+
+介绍
+http://www.cnblogs.com/ants/p/8445965.html
